@@ -1,16 +1,44 @@
 # quiz_game
 
-A new Flutter project Quiz Flow with Gamification.
+A  Flutter project Quiz Flow with Gamification.
+# News App
+
+## Features
+
+- User can play a Quiz game
+- Display score
+- Score Board also integrated.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter](https://flutter.dev/docs/get-started/install) installed on your machine
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository:
+
+2. Install dependencies:
+ - flutter pub get
+3. Run the app:
+ - flutter run
+
+
+
+## Dependencies
+ - flutter
+ - http: ^1.2.2
+ - provider: ^6.1.2
+ - flutter_widget_from_html: ^0.15.3
+ - percent_indicator: ^4.2.4
+ - lottie: ^3.3.1
+ - flutter_native_splash: ^2.4.4
+
+## Contributing
+
+ - Contributions are welcome! Please open an issue or submit a pull request for any changes.
+
+##Images
+    ![Alt text](https://res.cloudinary.com/demo/image/upload/sample.jpg)
