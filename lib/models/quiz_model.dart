@@ -484,6 +484,7 @@ class Option {
 }
 
 enum QuestionFrom {
+  // ignore: constant_identifier_names
   Q_BANK
 }
 
@@ -588,6 +589,7 @@ class PracticeMaterial {
 }
 
 enum Topic {
+  // ignore: constant_identifier_names
   MOLECULAR_BASIS_OF_INHERITANCE
 }
 
